@@ -1,16 +1,18 @@
-## Hi there 👋
+# Jesper Malm
 
-<!--
-**JesperMalm1/JesperMalm1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI-utvecklare under utbildning på Nackademin, Stockholm.
 
-Here are some ideas to get you started:
+## Stack
+**Backend:** Python, FastAPI, PostgreSQL, SQLAlchemy 2.0, AWS (EC2), Docker  
+**Frontend:** React, TypeScript, Supabase  
+**Tools:** Git, Stripe, JWT, Lovable Cloud
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projekt
+- **[Liatch](https://liatch.com)** – LIA-matchningsplattform med FastAPI, PostgreSQL och JWT-autentisering
+- **[Practeams](https://teamtastic-playground.lovable.app/onboarding)** – Fotbollslag-manager med React, Supabase och Stripe-integration
+
+## Kontakt
+- **LinkedIn:** [jesper-malm-](https://linkedin.com/in/jesper-malm-)
+- **Email:** jesper.malm@hotmail.com
+
+Söker LIA-praktik v.44 2026 – v.16 2027.
